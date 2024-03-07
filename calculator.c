@@ -1,3 +1,5 @@
+//Calculator using if else staements:
+//Made by:Abubakar Aamir :
 #include<stdio.h>
 int main(){
     int number1 ,number2,choice;
