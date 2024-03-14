@@ -1,3 +1,4 @@
+//Made by  :Abu bakar Aamir.
 //Arrays practise:
 //Defination of Array: 
 //Array is waja se used karte ha kiuke iske andar multiple values stroes kar sakhte ha single variable ki.instead of declaring separate variable for each.
